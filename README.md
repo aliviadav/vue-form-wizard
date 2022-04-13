@@ -36,6 +36,8 @@ Other demos:
 * [Animations with animate.css](https://jsfiddle.net/bt5dhqtf/1478/)
 * [Fancy step animations with lottie](https://codesandbox.io/s/3y0voo2oxp)
 
+* [deploying SSR Vite apps on AWS with automation](https://dev.to/canopassoftware/complete-guide-to-deploying-ssr-vite-apps-on-aws-with-automation-39gc)
+
 In browser [playground](https://cristijora.github.io/vue-form-wizard/#/?id=playground)
 
 # [Documentation](https://binarcode.github.io/vue-form-wizard/#/)
